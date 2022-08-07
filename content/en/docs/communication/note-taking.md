@@ -1,5 +1,12 @@
-Note Taking
-===========
+---
+title: "Note Taking"
+date: 2014-11-02T19:38:00+00:00
+lastmod: 2014-11-02T19:40:00+00:00
+draft: false
+images: []
+weight: 060
+toc: true
+---
 
 ## Definition:
 

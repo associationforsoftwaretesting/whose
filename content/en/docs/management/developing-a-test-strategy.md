@@ -1,5 +1,12 @@
-Developing a Test Strategy
-==========================
+---
+title: "Developing a Test Strategy"
+date: 2015-04-24T15:54:00+00:00
+lastmod: 2015-04-26T01:45:00+00:00
+draft: false
+images: []
+weight: 010
+toc: true
+---
 
 ## Definition:
 

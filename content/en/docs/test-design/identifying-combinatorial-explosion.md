@@ -1,5 +1,12 @@
-Identifying Combinatorial Explosion
-===================================
+---
+title: "Identifying Combinatorial Explosion"
+date: 2014-11-20T15:00:00+00:00
+lastmod: 2014-11-20T15:01:00+00:00
+draft: false
+images: []
+weight: 060
+toc: true
+---
 
 ## Definition:
 
@@ -24,7 +31,7 @@ Two more bugs were found after deployment in areas I had no idea were touched by
 
 I found the ideas from Cem Kaner (here: [Examples of Combination (Multi-Variable) Testing)](http://www.testingeducation.org/k04/ComboExamples.htm){.external.text} helpful in understanding how to do this and explain it to others.
 
-## Additional resources: 
+## Additional resources:
 
 [All Pairs](http://www.developsense.com/pairwiseTesting.html){.external.text}
 

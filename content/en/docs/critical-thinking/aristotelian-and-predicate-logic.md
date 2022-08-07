@@ -1,10 +1,17 @@
-Aristotelian and Predicate Logic
-================================
+---
+title: "Aristotelian and Predicate Logic"
+date: 2015-04-10T16:31:00+00:00
+lastmod: 2015-04-10T16:32:00+00:00
+draft: false
+images: []
+weight: 020
+toc: true
+---
 
 ## Definition:
 
 A formalization of thinking, similar to the way in which geometry formalizes drawing.
-The classic logical statement is: 
+The classic logical statement is:
 
 > All Men Are Mortal.
 > Socrates was a man.

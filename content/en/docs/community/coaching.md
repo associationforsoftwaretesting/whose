@@ -1,5 +1,12 @@
-Coaching
-========
+---
+title: "Coaching"
+date: 2015-04-10T17:24:00+00:00
+lastmod: 2015-04-10T17:24:00+00:00
+draft: false
+images: []
+weight: 010
+toc: true
+---
 
 ## Definition:
 

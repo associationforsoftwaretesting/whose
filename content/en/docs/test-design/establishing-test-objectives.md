@@ -1,5 +1,12 @@
-Establishing Test Objectives
-============================
+---
+title: "Establishing Test Objectives"
+date: 2014-11-21T22:04:00+00:00
+lastmod: 2014-11-21T22:04:00+00:00
+draft: false
+images: []
+weight: 070
+toc: true
+---
 
 ## Definition:
 

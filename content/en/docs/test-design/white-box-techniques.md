@@ -1,5 +1,12 @@
-White Box Techniques
-====================
+---
+title: "White Box Techniques"
+date: 2015-04-10T17:08:00+00:00
+lastmod: 2015-04-10T17:08:00+00:00
+draft: false
+images: []
+weight: 040
+toc: true
+---
 
 ## Definition:
 

@@ -1,5 +1,12 @@
-Black Box Techniques
-====================
+---
+title: "Black Box Techniques"
+date: 2015-04-10T17:07:00+00:00
+lastmod: 2015-04-10T17:15:00+00:00
+draft: false
+images: []
+weight: 030
+toc: true
+---
 
 ## Definition:
 

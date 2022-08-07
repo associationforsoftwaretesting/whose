@@ -1,5 +1,12 @@
-Rhetoric
-========
+---
+title: "Rhetoric"
+date: 2015-04-10T16:42:00+00:00
+lastmod: 2015-04-10T16:42:00+00:00
+draft: false
+images: []
+weight: 070
+toc: true
+---
 
 ## Definition:
 

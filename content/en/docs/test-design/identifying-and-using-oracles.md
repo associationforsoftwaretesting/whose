@@ -1,5 +1,12 @@
-Identifying and Using Oracles
-=============================
+---
+title: "Identifying and Using Oracles"
+date: 2014-11-02T18:56:00+00:00
+lastmod: 2014-11-02T19:32:00+00:00
+draft: false
+images: []
+weight: 010
+toc: true
+---
 
 ## Definition:
 

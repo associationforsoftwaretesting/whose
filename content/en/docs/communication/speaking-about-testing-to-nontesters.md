@@ -1,5 +1,12 @@
-Speaking About Testing To NonTesters
-====================================
+---
+title: "Speaking About Testing To NonTesters"
+date: 2015-04-26T17:34:00+00:00
+lastmod: 2015-04-27T22:19:00+00:00
+draft: false
+images: []
+weight: 080
+toc: true
+---
 
 ## Definition:
 

@@ -1,5 +1,12 @@
-Knowing When to Stop
-====================
+---
+title: "Knowing When to Stop"
+date: 2014-11-20T15:13:00+00:00
+lastmod: 2014-11-20T15:18:00+00:00
+draft: false
+images: []
+weight: 010
+toc: true
+---
 
 ## Definition:
 

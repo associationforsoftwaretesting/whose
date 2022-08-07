@@ -1,5 +1,12 @@
-Chartering
-==========
+---
+title: "Chartering"
+date: 2014-11-23T21:57:00+00:00
+lastmod: 2014-11-23T21:58:00+00:00
+draft: false
+images: []
+weight: 020
+toc: true
+---
 
 ## Definition:
 

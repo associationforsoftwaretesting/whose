@@ -1,5 +1,12 @@
-Managing Expectations
-=====================
+---
+title: "Managing Expectations"
+date: 2015-04-29T15:05:00+00:00
+lastmod: 2015-04-29T15:12:00+00:00
+draft: false
+images: []
+weight: 050
+toc: true
+---
 
 ## Definition:
 

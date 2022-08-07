@@ -1,5 +1,12 @@
-Community Building
-==================
+---
+title: "Community Building"
+date: 2015-04-10T17:31:00+00:00
+lastmod: 2015-04-10T17:32:00+00:00
+draft: false
+images: []
+weight: 020
+toc: true
+---
 
 ## Definition:
 

@@ -1,5 +1,13 @@
-Risk Prioritization
-===================
+---
+title: "Risk Prioritization"
+date: 2015-04-10T16:49:00+00:00
+lastmod: 2015-04-10T16:49:00+00:00
+draft: false
+images: []
+weight: 050
+toc: true
+---
+
 
 ## Definition:
 

@@ -1,5 +1,12 @@
-Quick Attacks
-=============
+---
+title: "Quick Attacks"
+date: 2014-11-02T19:16:00+00:00
+lastmod: 2014-11-02T19:31:00+00:00
+draft: false
+images: []
+weight: 020
+toc: true
+---
 
 ## Definition:
 

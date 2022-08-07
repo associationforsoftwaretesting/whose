@@ -1,5 +1,12 @@
-Identifying Logical Fallicies
-=============================
+---
+title: "Identifying Logical Fallicies"
+date: 2015-04-10T16:37:00+00:00
+lastmod: 2015-04-10T16:38:00+00:00
+draft: false
+images: []
+weight: 030
+toc: true
+---
 
 ## Definition:
 

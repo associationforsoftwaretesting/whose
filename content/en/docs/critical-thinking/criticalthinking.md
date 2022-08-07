@@ -1,5 +1,12 @@
-CriticalThinking
-================
+---
+title: "CriticalThinking"
+date: 2015-04-10T16:25:00+00:00
+lastmod: 2015-04-10T16:27:00+00:00
+draft: false
+images: []
+weight: 040
+toc: true
+---
 
 ## Definition:
 
