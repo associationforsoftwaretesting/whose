@@ -1,5 +1,5 @@
 ---
-title: "Identifying Logical Fallicies"
+title: "Identifying Logical Fallacies"
 date: 2015-04-10T16:37:00+00:00
 lastmod: 2015-04-10T16:38:00+00:00
 draft: false
