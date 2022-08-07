@@ -30,13 +30,13 @@ Come to think of it, that's a decent build credibility story, isn't it?.
 
 ## How I'd recommend someone learn this skill:
 
-[Hands On Keyboard Quick Attacks](http://itknowledgeexchange.techtarget.com/software-quality/teaching-quick-attacks/){.external.text} walks the reader through several exercises.
-It's a common place for me to start teaching testing and provides other valuable links, worth mentioning here, like Elisabeth Hendrickson's \[<http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf> Testing Cheat Sheet\] and the article [Ten Quick Attacks For Web Based Software](http://searchsoftwarequality.techtarget.com/tip/Ten-quick-attacks-for-web-based-software){.external.text} along with a link to [Triangle TestOMeter](http://www.testinggeek.com/software-testing-testometer-triangle-test){.external.text} .
+[Hands On Keyboard Quick Attacks](http://itknowledgeexchange.techtarget.com/software-quality/teaching-quick-attacks/) walks the reader through several exercises.
+It's a common place for me to start teaching testing and provides other valuable links, worth mentioning here, like Elisabeth Hendrickson's \[<http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf> Testing Cheat Sheet\] and the article [Ten Quick Attacks For Web Based Software](http://searchsoftwarequality.techtarget.com/tip/Ten-quick-attacks-for-web-based-software) along with a link to [Triangle TestOMeter](http://www.testinggeek.com/software-testing-testometer-triangle-test) .
 
 ## Additional resources:
 
-[BBST Test Design](http://www.testingeducation.org/BBST/testdesign/){.external.text} , specifically lecture 2
-[How To Break Web Software](http://www.amazon.com/How-Break-Web-Software-Applications/dp/0321369440){.external.text} , by James Whittaker
+[BBST Test Design](http://www.testingeducation.org/BBST/testdesign/) , specifically lecture 2
+[How To Break Web Software](http://www.amazon.com/How-Break-Web-Software-Applications/dp/0321369440) , by James Whittaker
 
 By: Matt Heusser
 

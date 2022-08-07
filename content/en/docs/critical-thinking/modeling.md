@@ -70,11 +70,10 @@ There are also general references to modeling provided in this document:
 
 ## Additional resources:
 
-[The Art of Software Testing](http://www.amazon.com/The-Software-Testing-Glenford-Myers/dp/1118031962){.external
-.text}, Glendford Myers - this is a general book on software testing (the grandfather). It contains modeling concepts that every tester should know
-[Black Box Software Testing](http://www.amazon.com/Black-Box-Testing-Techniques-Functional-Software/dp/0471120944/ref=sr_1_1?s=books&ie=UTF8&qid=1428682569&sr=1-1&keywords=black+box+software+testing){.external.text}, Boris Beizer - this books is a collection of state modeling concepts applied to specific black box problems areas
-[Anne-Marie Charrett's blog](http://mavericktester.com/archive/how-i-use-modelling-in-software-testing/){.external.text} on modeling in software testing
-[Practical Model Based Testing: A Tools Approach](http://books.google.com/books?hl=en&lr=&id=8hAGtY4-oOoC&oi=fnd&pg=PP2&dq=model+based+testing&ots=OQatOcJHHQ&sig=9Tnl6e_OiZkI3Abf3S8oM7xZyiA#v=onepage&q=model%20based%20testing&f=false){.external.text}
+[The Art of Software Testing](http://www.amazon.com/The-Software-Testing-Glenford-Myers/dp/1118031962), Glendford Myers - this is a general book on software testing (the grandfather). It contains modeling concepts that every tester should know
+[Black Box Software Testing](http://www.amazon.com/Black-Box-Testing-Techniques-Functional-Software/dp/0471120944/ref=sr_1_1?s=books&ie=UTF8&qid=1428682569&sr=1-1&keywords=black+box+software+testing), Boris Beizer - this books is a collection of state modeling concepts applied to specific black box problems areas
+[Anne-Marie Charrett's blog](http://mavericktester.com/archive/how-i-use-modelling-in-software-testing/) on modeling in software testing
+[Practical Model Based Testing: A Tools Approach](http://books.google.com/books?hl=en&lr=&id=8hAGtY4-oOoC&oi=fnd&pg=PP2&dq=model+based+testing&ots=OQatOcJHHQ&sig=9Tnl6e_OiZkI3Abf3S8oM7xZyiA#v=onepage&q=model%20based%20testing&f=false)
 
 
 

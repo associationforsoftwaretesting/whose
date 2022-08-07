@@ -44,14 +44,14 @@ Creating the decision table was easy, but seeing the symbols pop up in my mind -
 
 My senior year in high school I took a course in Logic at Hood College at night.
 It was fantastic.
-The book we used for the course was Harrison's [Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thoughts-Frank-Harrison/dp/8189617230){.external.text} .
+The book we used for the course was Harrison's [Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thoughts-Frank-Harrison/dp/8189617230) .
 I would suggest a quick Google search and some reading on symbolic logic, predicate logic, and Aristotelian logic.
-The Great Courses have a [course on reasoning](http://www.thegreatcourses.com/courses/tools-of-thinking-understanding-the-world-through-experience-and-reason.html?cid=4413){.external.text} that covers Aristotelian logic through predicate;; it looks interesting.
+The Great Courses have a [course on reasoning](http://www.thegreatcourses.com/courses/tools-of-thinking-understanding-the-world-through-experience-and-reason.html?cid=4413) that covers Aristotelian logic through predicate;; it looks interesting.
 
 
 ## Additional resources:
 
-[Strategy and Logic of Argumentation](https://www.youtube.com/watch?v=pQQn66_Vtc4){.external.text} , Great Course Summary on YouTube
+[Strategy and Logic of Argumentation](https://www.youtube.com/watch?v=pQQn66_Vtc4) , Great Course Summary on YouTube
 
 
 

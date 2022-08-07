@@ -63,8 +63,8 @@ To learn skill of black box test design and associated techniques, one must prac
 
 ## Additional resources:
 
-[BBST classes](http://www.associationforsoftwaretesting.org/training/courses/){.external .text}
-[The Domain Testing Workbook](http://contextdrivenpress.com/){.external .text} -‐‑ Kaner etal -‐‑ (this is a comprehensive "how to" with skillbuilding learning workbook)
+[BBST classes](http://www.associationforsoftwaretesting.org/training/courses/)
+[The Domain Testing Workbook](http://contextdrivenpress.com/) -‐‑ Kaner etal -‐‑ (this is a comprehensive "how to" with skillbuilding learning workbook)
 
 By: Jon Hagar
 

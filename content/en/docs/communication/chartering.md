@@ -34,8 +34,8 @@ I use pairing a great deal in determining charters to help reduce bias in perspe
 
 ## How I'd recommend someone learn this skill:
 
-Start by reading: Chapter 2 of [Explore IT](http://www.amazon.com/Explore-It-Increase-Confidence-Exploratory/dp/1937785025/ref=sr_1_2?ie=UTF8&qid=1386272397&sr=8-2&keywords=explore+it%21){.external .text} by Elisabeth Hendrickson is devoted to the topic of chartering as well as its application in exploratory testing.
-Slide 22 of the [Exploratory Testing](http://www.developsense.com/presentations/2009-09-ExploratoryTesting.pdf){.external.text} PDF from Michael Bolton provides a clear definition.
+Start by reading: Chapter 2 of [Explore IT](http://www.amazon.com/Explore-It-Increase-Confidence-Exploratory/dp/1937785025/ref=sr_1_2?ie=UTF8&qid=1386272397&sr=8-2&keywords=explore+it%21) by Elisabeth Hendrickson is devoted to the topic of chartering as well as its application in exploratory testing.
+Slide 22 of the [Exploratory Testing](http://www.developsense.com/presentations/2009-09-ExploratoryTesting.pdf) PDF from Michael Bolton provides a clear definition.
 
 Next creating charters is a learned-‐‑practice skill.
 By this, we mean the tester must write a charter, may be get it reviewed, and then use the charter in test.
@@ -50,10 +50,9 @@ You should create (think) your own charter.
 
 ## Additional resources:
 
-Consider the section on "The Mission of Testing" from [BBST](http://www.testingeducation.org/BBST/foundations/Lecture2aFoundations2010.mp4){.external
-.text}
-[Exploratory Testing Explained](http://www.satisfice.com/articles/et-article.pdf){.external .text} (see information on charters)
-[Exploratory Testing](http://en.wikipedia.org/wiki/Exploratory_testing){.external .text}
+Consider the section on "The Mission of Testing" from [BBST](http://www.testingeducation.org/BBST/foundations/Lecture2aFoundations2010.mp4)
+[Exploratory Testing Explained](http://www.satisfice.com/articles/et-article.pdf) (see information on charters)
+[Exploratory Testing](http://en.wikipedia.org/wiki/Exploratory_testing)
 
 
 By: Pete Walen and Justin Rohrman

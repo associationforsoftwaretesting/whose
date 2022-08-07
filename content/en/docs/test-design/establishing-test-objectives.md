@@ -41,8 +41,8 @@ This may be asked as "What is it you hope this software will do after the change
 
 ## Additional resources:
 
-[BBST Foundations Lecture 2a](http://www.testingeducation.org/BBST/foundations/Lecture2aFoundations2010.mp4){.external.text}
-[BBST Foundations Lecture 2b](http://www.testingeducation.org/BBST/foundations/Lecture2bFoundations2010.mp4){.external.text}
+[BBST Foundations Lecture 2a](http://www.testingeducation.org/BBST/foundations/Lecture2aFoundations2010.mp4)
+[BBST Foundations Lecture 2b](http://www.testingeducation.org/BBST/foundations/Lecture2bFoundations2010.mp4)
 
 
 By: Jon Hagar

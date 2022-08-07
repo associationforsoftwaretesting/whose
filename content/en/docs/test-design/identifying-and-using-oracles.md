@@ -57,14 +57,14 @@ If they appear correctly, then I know they are correct.
 
 ## Additional resources:
 
-* [Problems with Problems](http://www.developsense.com/blog/2012/04/problems-with-problems/){.external.text} by Michael Bolton
-* [The Oracle Problem and the Teaching of Software Testing](http://kaner.com/?p=190){.external .text} by Cem Kaner
-* [Self-Verifying Data](https://www.damianbrunold.ch/files/testing/3648785.pdf){.external.text} by Noel Nyman
+* [Problems with Problems](http://www.developsense.com/blog/2012/04/problems-with-problems/) by Michael Bolton
+* [The Oracle Problem and the Teaching of Software Testing](http://kaner.com/?p=190) by Cem Kaner
+* [Self-Verifying Data](https://www.damianbrunold.ch/files/testing/3648785.pdf) by Noel Nyman
 * "Testing Computer Software" by Cem Kaner, et. al.
-* [Analysis of the Taxonomy of Test Oracles](http://www.softwarequalitymethods.com/html/body_h-papers.html#taxonomy){.external.text} by Doug Hoffman
-* [Nine Types of Oracles](http://www.softwarequalitymethods.com/html/body_h-papers.html#NineTypes){.external.text} by Doug Hoffman
-* [Self-Verifying Data](http://www.uploads.pnsqc.org/2012/papers/t-36_Hoffman_paper.pdf){.external.text} by Doug Hoffman
-* [Word of the Week: Oracle](http://about98percentdone.blogspot.com/2013/11/word-of-week-oracle.html){.external.text} by JCD
+* [Analysis of the Taxonomy of Test Oracles](http://www.softwarequalitymethods.com/html/body_h-papers.html#taxonomy) by Doug Hoffman
+* [Nine Types of Oracles](http://www.softwarequalitymethods.com/html/body_h-papers.html#NineTypes) by Doug Hoffman
+* [Self-Verifying Data](http://www.uploads.pnsqc.org/2012/papers/t-36_Hoffman_paper.pdf) by Doug Hoffman
+* [Word of the Week: Oracle](http://about98percentdone.blogspot.com/2013/11/word-of-week-oracle.html) by JCD
 
 By: Pete Walen
 

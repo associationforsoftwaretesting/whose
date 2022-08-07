@@ -89,12 +89,12 @@ Here are couple of things you can practice to improve your communication, especi
 
 ## Additional resources:
 
-[Explaining Testing to Anybody](http://www.satisfice.com/presentations/etta.pdf){.external.text} -- James Bach
-[Collins, Harry M. (2010). Tacit and explicit knowledge](http://www.amazon.com/Tacit-Explicit-Knowledge-Harry-Collins-ebook/dp/B003URR2BU/ref=sr_1_1?s=books&ie=UTF8&qid=1430069536&sr=1-1&keywords=tacit+and+explicit+knowledge){.external .text} Chicago: University of Chicago Press. [ISBN
+[Explaining Testing to Anybody](http://www.satisfice.com/presentations/etta.pdf) -- James Bach
+[Collins, Harry M. (2010). Tacit and explicit knowledge](http://www.amazon.com/Tacit-Explicit-Knowledge-Harry-Collins-ebook/dp/B003URR2BU/ref=sr_1_1?s=books&ie=UTF8&qid=1430069536&sr=1-1&keywords=tacit+and+explicit+knowledge) Chicago: University of Chicago Press. [ISBN
 9780226113807](http://whose.associationforsoftwaretesting.org/index.php?title=Special:BookSources/9780226113807){.internal
 .mw-magiclink-isbn}.
-[Interactional Expertise](http://en.wikipedia.org/wiki/Interactional_expertise){.external.text}
-[Secrets of Consulting](http://www.amazon.com/The-Secrets-Consulting-Getting-Successfully/dp/0932633013){.external.text} and [Becoming A Technical Leader](http://www.amazon.in/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021){.external.text} by Jerry Weinberg
+[Interactional Expertise](http://en.wikipedia.org/wiki/Interactional_expertise)
+[Secrets of Consulting](http://www.amazon.com/The-Secrets-Consulting-Getting-Successfully/dp/0932633013) and [Becoming A Technical Leader](http://www.amazon.in/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021) by Jerry Weinberg
 
 
 By: Lalit Bhamare

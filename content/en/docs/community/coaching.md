@@ -55,10 +55,10 @@ James Bach and Anne-Marie Charett offer free Skype coaching through the Associat
 
 ## Additional resources:
 
-[Becoming a Technical Leader](http://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021){.external.text} , by Jerry Weinberg
-[Coaching Software Testers](http://testhuddle.com/resource/coaching-for-software-testers-with-anne-marie-charrett/){.external.text} , by A Eurostar Webinar, Anne-‐‑Marie Charrett
-[Why You Many Need An 'Agile Coach' (Whatever That Is)](http://www.cio.com/article/2381752/agile-development/why-you-may-need-an-agile-coach-whatever-one-is.html){.external.text} , Matthew Heusser for cio.com
-[In Pursuit of Coaching Excellence](http://mavericktester.com/archive/in-pursuit-of-excellence/){.external.text} by Ann-‐‑Marie Charrett
+[Becoming a Technical Leader](http://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021) , by Jerry Weinberg
+[Coaching Software Testers](http://testhuddle.com/resource/coaching-for-software-testers-with-anne-marie-charrett/) , by A Eurostar Webinar, Anne-‐‑Marie Charrett
+[Why You Many Need An 'Agile Coach' (Whatever That Is)](http://www.cio.com/article/2381752/agile-development/why-you-may-need-an-agile-coach-whatever-one-is.html) , Matthew Heusser for cio.com
+[In Pursuit of Coaching Excellence](http://mavericktester.com/archive/in-pursuit-of-excellence/) by Ann-‐‑Marie Charrett
 
 
 By: Matthew Heusser

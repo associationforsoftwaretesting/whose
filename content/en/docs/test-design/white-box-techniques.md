@@ -50,7 +50,7 @@ What if I set z = 0? What does the computer do with something that is math undef
 
 ## Additional resources:
 
-["Software Test Attacks to Break Embedded and Mobile Software"](http://www.amazon.com/Software-Embedded-Innovations-Engineering-Development/dp/1466575301){.external .text}, Jon Hagar, 2013 Ch 2 developer attacks, CRC press
+["Software Test Attacks to Break Embedded and Mobile Software"](http://www.amazon.com/Software-Embedded-Innovations-Engineering-Development/dp/1466575301), Jon Hagar, 2013 Ch 2 developer attacks, CRC press
 
 
 By: Peter Walen

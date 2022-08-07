@@ -31,8 +31,8 @@ There are also specific aspects of note taking ,such as sketching and explorator
 
 ## Additional resources:
 
-[Rapid Reporter](http://testing.gershon.info/reporter/){.external .text} by Shmuel Gershon
-[An Exploratory Testers Notebook](http://www.developsense.com/presentations/etnotebook.pdf){.external .text} by Michael Bolton
+[Rapid Reporter](http://testing.gershon.info/reporter/) by Shmuel Gershon
+[An Exploratory Testers Notebook](http://www.developsense.com/presentations/etnotebook.pdf) by Michael Bolton
 
 
 By: Justin Rohrman

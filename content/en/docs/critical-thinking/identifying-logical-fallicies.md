@@ -40,14 +40,14 @@ First study logical fallacies, then pick up any major newspaper, turn to the edi
 Another related thing to look for is inconsistency of rhetoric -‐‑-‐‑ when the person the paper likes does something, it is "leadership", while when the opposition does it, it is "manipulation."
 (Another example: "lies" vs "mistakes", "bad word choice", and "misunderstood.").
 
-If you are really motivated, get a copy of [Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thought-Frank-Harrison/dp/0314668144){.external.text} by Harrison and go through the books section on logical fallacies.
+If you are really motivated, get a copy of [Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thought-Frank-Harrison/dp/0314668144) by Harrison and go through the books section on logical fallacies.
 It is exceptional and include exercises.
 (Robert Sabourin's example about is close to what Harrison refers to as the fallacy of the false dilemma).
 
 ## Additional resources:
 
-[Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm){.external .text}
-[Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thought-Frank-Harrison/dp/0314668144){.external.text}, Frank Harrison
+[Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
+[Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thought-Frank-Harrison/dp/0314668144), Frank Harrison
 
 
 By: Robert Sabourin

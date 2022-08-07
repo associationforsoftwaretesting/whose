@@ -45,12 +45,9 @@ Read David Levy's Tools for Critical Thinking book.
 
 ## Additional resources:
 
-[Tools for Critical Thinking: Metathoughts for Psychology](http://www.amazon.com/Tools-Critical-Thinking-Metathoughts-Psychology/dp/0205260837){.external
-.text} by David Levy
-[Critical Thinking: Basic Questions & Answers](http://www.criticalthinking.org/pages/critical-thinking-basic-questions-amp-answers/409){.external
-.text} by The Foundation for Critical Thinking
-[Critical Thinking by Wikipedia](http://en.wikipedia.org/wiki/Critical_thinking){.external
-.text}
+[Tools for Critical Thinking: Metathoughts for Psychology](http://www.amazon.com/Tools-Critical-Thinking-Metathoughts-Psychology/dp/0205260837) by David Levy
+[Critical Thinking: Basic Questions & Answers](http://www.criticalthinking.org/pages/critical-thinking-basic-questions-amp-answers/409) by The Foundation for Critical Thinking
+[Critical Thinking by Wikipedia](http://en.wikipedia.org/wiki/Critical_thinking)
 
 By: JCD
 

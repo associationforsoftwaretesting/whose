@@ -64,11 +64,9 @@ Here are some principles:.
 ## Additional resources:
 
 
-[BBST Foundations Strategy Video 1](http://www.testingeducation.org/BBST/foundations/Lecture2aFoundations2010.mp4){.external
-.text}
-[BBST Foundations Strategy Video 2](http://www.testingeducation.org/BBST/foundations/Lecture2bFoundations2010.mp4){.external
-.text}
-[Heuristic Test Strategy Model by James Bach](http://www.satisfice.com/tools/htsm.pdf){.external .text}
+[BBST Foundations Strategy Video 1](http://www.testingeducation.org/BBST/foundations/Lecture2aFoundations2010.mp4)
+[BBST Foundations Strategy Video 2](http://www.testingeducation.org/BBST/foundations/Lecture2bFoundations2010.mp4)
+[Heuristic Test Strategy Model by James Bach](http://www.satisfice.com/tools/htsm.pdf)
 
 By: Anna Royzman
 

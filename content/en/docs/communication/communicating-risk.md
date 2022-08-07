@@ -60,8 +60,7 @@ Move from studying to experimenting, and do it consciously.
 
 ## Additional resources:
 
-["Crucial Conversations: Tools for Talking When Stakes are High"](http://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/){.external
-.text} by Patterson et al talks about how to deal with defensive and high pressure situations
+["Crucial Conversations: Tools for Talking When Stakes are High"](http://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/) by Patterson et al talks about how to deal with defensive and high pressure situations
 "How To Win Friends and Influence People" by Dale Carnegie (get the original, non-update version), talks about how to send a message that will resonate with your audience
 
 

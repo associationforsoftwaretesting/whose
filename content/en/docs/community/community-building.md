@@ -19,10 +19,10 @@ This led to much silo-‐‑ing of experiences, information and solutions.
 To address this issue, and to generally encourage our testers to communicate with one another, we started "Testers Teas".
 These are short meetings, to which all testers are invited, and attendance is optional.
 The goal of the Testers Tea is to get testers together and talking.
-We have had many formats for these gatherings including [Lean Coffee](http://leancoffee.org/){.external .text}, videos, games, presentations.
+We have had many formats for these gatherings including [Lean Coffee](http://leancoffee.org/), videos, games, presentations.
 The key is keeping the tester meetings fresh and mixing it up.
 I've tried to make sure there is a practical element to the meeting, something that gets them thinking.
-For example, I've given them the challenge to test the "Easy button" before discussing it then showing them the [James Bach video](https://www.youtube.com/watch?v=Vy0I2SB5OLo){.external .text}.
+For example, I've given them the challenge to test the "Easy button" before discussing it then showing them the [James Bach video](https://www.youtube.com/watch?v=Vy0I2SB5OLo).
 The level of engagement since the new format testers teas has risen in a few testers, and they look forward to the next session! It's also an opportunity for testers to give presentations or summaries of events/training they've attended.
 -‐‑-‐‑ Chris George.
 
@@ -36,9 +36,9 @@ The biggest difference in my case is that I wanted to try and spread knowledge a
 To help bring testers together internally, we started running "Testing Chatter" events.
 These are K-‐‑Card facilitated discussions on predefined topics.
 We also have run several game nights where we play things like Zendo, Set, the dice game, Art Show and others to bring the testers together all while possibly improving their attention to detail and creativity.
-To get testers outside of my company to meet and share ideas, I created the [NOTiCE](http://www.meetup.com/notice/){.external .text} (Northern Ohio Testers in Collaborative Engagement) meetup.
+To get testers outside of my company to meet and share ideas, I created the [NOTiCE](http://www.meetup.com/notice/) (Northern Ohio Testers in Collaborative Engagement) meetup.
 The majority of our meetings have had one or more defined topics, but the most successful session allowed attendees to bring their own topics (similar to Lean Coffee but less structured).
-I also joined the board of [NOSQAA](http://nosqaa.org/){.external .text} (Northern Ohio Software Quality Assurance Association) to help drive the programs offered in a direction I think will be beneficial for the testing community in the region.
+I also joined the board of [NOSQAA](http://nosqaa.org/) (Northern Ohio Software Quality Assurance Association) to help drive the programs offered in a direction I think will be beneficial for the testing community in the region.
 \-- Erik Davis
 
 ## How I'd recommend someone learn this skill:
@@ -56,7 +56,7 @@ It's important to review the sessions as a group, and adapt to do what's best fo
 ## Additional resources:
 
 <http://leancoffee.org/>
-The Birth of a Tester Gathering [Part 1](http://testingthoughts.com/erikdavis/?p=61){.external .text} , [Part 2](http://testingthoughts.com/erikdavis/?p=80){.external .text} , \[<http://testingthoughts.com/erikdavis/?p=96> Part 3\] and [Part 4](http://testingthoughts.com/erikdavis/?p=113){.external .text}
+The Birth of a Tester Gathering [Part 1](http://testingthoughts.com/erikdavis/?p=61) , [Part 2](http://testingthoughts.com/erikdavis/?p=80) , \[<http://testingthoughts.com/erikdavis/?p=96> Part 3\] and [Part 4](http://testingthoughts.com/erikdavis/?p=113)
 
 
 By: Erik Davis and Chris George

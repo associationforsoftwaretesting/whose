@@ -29,11 +29,11 @@ Two more bugs were found after deployment in areas I had no idea were touched by
 
 ## How I'd recommend someone learn this skill:
 
-I found the ideas from Cem Kaner (here: [Examples of Combination (Multi-Variable) Testing)](http://www.testingeducation.org/k04/ComboExamples.htm){.external.text} helpful in understanding how to do this and explain it to others.
+I found the ideas from Cem Kaner (here: [Examples of Combination (Multi-Variable) Testing)](http://www.testingeducation.org/k04/ComboExamples.htm) helpful in understanding how to do this and explain it to others.
 
 ## Additional resources:
 
-[All Pairs](http://www.developsense.com/pairwiseTesting.html){.external.text}
+[All Pairs](http://www.developsense.com/pairwiseTesting.html)
 
 By: Pete Walen
 

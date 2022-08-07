@@ -39,7 +39,7 @@ With a "value" for probability and impact, you can 'calculate' the risk exposure
 
 ## Additional resources:
 
-Prioritization -‐‑ Making Best Use of Your Time and Resources -‐‑ Seemore at[Mindtools](http://www.mindtools.com/pages/article/newHTE_92.htm){.external.text}
+Prioritization -‐‑ Making Best Use of Your Time and Resources -‐‑ Seemore at[Mindtools](http://www.mindtools.com/pages/article/newHTE_92.htm)
 
 By: Simon Peter Schrijver
 

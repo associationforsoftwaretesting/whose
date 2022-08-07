@@ -39,18 +39,18 @@ If I had not have put in the humorous lines, the asking the audience bits and th
 
 ## How I'd recommend someone learn this skill:
 
-This is a good introduction to soft skills required for good presentations: [Engage the Audience](http://skillsworkshop.net/a1.html){.external .text} Presentation Skills Workshop
+This is a good introduction to soft skills required for good presentations: [Engage the Audience](http://skillsworkshop.net/a1.html) Presentation Skills Workshop
 
 Content is the other engaging factor.
 Your slide deck can make or break the presentation.
 Remember, less is more and it is YOU who is presenting the information, not the projector!.
 
-For some examples of what NOT to do, watch [Life after death by Powerpoint](https://www.youtube.com/watch?v=lpvgfmEU2Ck){.external .text} by Don McMillan.
+For some examples of what NOT to do, watch [Life after death by Powerpoint](https://www.youtube.com/watch?v=lpvgfmEU2Ck) by Don McMillan.
 
 ## Additional resources:
 
-[Skills Workshop](http://skillsworkshop.net/){.external .text}
-[Toastmasters International](http://www.toastmasters.org/){.external .text} provides a way to do deliberate practice for presentations
+[Skills Workshop](http://skillsworkshop.net/)
+[Toastmasters International](http://www.toastmasters.org/) provides a way to do deliberate practice for presentations
 
 By: Chris George
 
