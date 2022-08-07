@@ -15,7 +15,7 @@ Combination testing is about picking a few tests that can teach us what we need 
 
 ## A context where I used this skill:
 
-Recently, while working on a project that involved a table change to add new languages available as \"preferred languages\" in a registration module for a shopping system we saw several potential problems.
+Recently, while working on a project that involved a table change to add new languages available as "preferred languages" in a registration module for a shopping system we saw several potential problems.
 The test group was repeatedly told that there were no code changes made, testing should be fairly easy.
 On examining the number of areas where that table was referenced simply for registration and profile maintenance it seemed more complex.
 It was invoked from a desktop webpage, a mainframe green screen (user customer service staff) and mobile applications on iOS and Android.
@@ -27,7 +27,7 @@ By evaluating the combinations, I was able to reduce the desktop tests to 41 and
 These found over 20 bugs that would prevent the software from working.
 Two more bugs were found after deployment in areas I had no idea were touched by the change.
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 I found the ideas from Cem Kaner (here: [Examples of Combination (Multi-Variable) Testing)](http://www.testingeducation.org/k04/ComboExamples.htm){.external.text} helpful in understanding how to do this and explain it to others.
 

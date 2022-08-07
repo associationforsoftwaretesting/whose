@@ -48,7 +48,7 @@ Once the product was launched - the customer feedback got much worse.
 There were huge complaints on what was promised and what was delivered.
 It wasn't surprising at all to see sales drop as reporting and analytics were very critical to customers and were identified as key success factors from the start.
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 Expectations cannot be obvious to one and not the other.
 Very first step towards expectation setting is to know and accept the reality in terms of team capabilities, constraints, dependencies and risks we are working with.

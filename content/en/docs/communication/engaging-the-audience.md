@@ -14,7 +14,7 @@ Engaging the audience can be the difference between a great and a poor presentat
 
 ## A context where I used this skill:
 
-Presenting is something fairly new to me, and something I\'ve shied away from for many years due to my stammer.
+Presenting is something fairly new to me, and something I've shied away from for many years due to my stammer.
 My fear was I would not engage the audience, in fact my fear was the exact opposite, I would make the audience disengaged as I spluttered my way through a presentation.
 Nevertheless, I felt I had a story to tell and so set about learning more about presentation skills.
 I attended a short presentation skills course which gave me some tips to planning the presentation, and some tips about engaging the audience.
@@ -23,7 +23,7 @@ I managed to get a session accepted at Agile Cambridge in the UK So armed with t
 Something I vowed I would never do is give a long bio at the start, because I really dislike that in presentations, and makes me switch off.
 So no introduction, just launched straight into it.
 The presentation had a chronological format, going through the decades starting at 1968.
-The first question I asked was \"who remembers 1968?\" which immediately elicited a response.
+The first question I asked was "who remembers 1968?" which immediately elicited a response.
 I swiftly followed this up with some facts including that Steve Jobs was still in high school, which draw some laughs from the audience.
 
 I was pretty happy with the engagement I was getting, but the moment I remember most was when I got to the 80s, and asked the audience another question\.
@@ -37,7 +37,7 @@ I generally find this very difficult (as do a lot of people), but it really made
 Overall, I felt the presentation was a reasonable success, but I was really pleased with the reactions I got from the audience.
 If I had not have put in the humorous lines, the asking the audience bits and the nostalgic references, it would have been a different experience.
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 This is a good introduction to soft skills required for good presentations: [Engage the Audience](http://skillsworkshop.net/a1.html){.external .text} Presentation Skills Workshop
 

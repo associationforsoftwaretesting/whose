@@ -69,7 +69,7 @@ If you know how to talk about testing you can easily deal with such situations.
 In fact, if you are interviewing a tester for hiring, you can assess her for same skill.
 Naturally, an individual who can talk effectively about testing would possess solid understanding of concepts, soft-skills and other desired personality traits.
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 Here are couple of things you can practice to improve your communication, especially with non-tester audience:.
 

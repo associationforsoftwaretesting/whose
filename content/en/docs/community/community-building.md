@@ -16,7 +16,7 @@ Community building is a field of practices directed toward the creation or enhan
 
 The testers in my company do not exist within a single testing department, and are embedded across the company within project teams.
 This led to much silo-‐‑ing of experiences, information and solutions.
-To address this issue, and to generally encourage our testers to communicate with one another, we started \"Testers Teas\".
+To address this issue, and to generally encourage our testers to communicate with one another, we started "Testers Teas".
 These are short meetings, to which all testers are invited, and attendance is optional.
 The goal of the Testers Tea is to get testers together and talking.
 We have had many formats for these gatherings including [Lean Coffee](http://leancoffee.org/){.external .text}, videos, games, presentations.
@@ -31,9 +31,9 @@ The purpose of this is to get testers from around Cambridge together to discuss 
 This requires minimal organisation, but has resulted in some really great conversations and built relationships between a few companies.
 -‐‑-‐‑ Chris George.
 
-Similar to Chris\'s experience, I also had a need to get our testers to communicate with one another more.
+Similar to Chris's experience, I also had a need to get our testers to communicate with one another more.
 The biggest difference in my case is that I wanted to try and spread knowledge and ideas between testers at my company, as well as in the region.
-To help bring testers together internally, we started running \"Testing Chatter\" events.
+To help bring testers together internally, we started running "Testing Chatter" events.
 These are K-‐‑Card facilitated discussions on predefined topics.
 We also have run several game nights where we play things like Zendo, Set, the dice game, Art Show and others to bring the testers together all while possibly improving their attention to detail and creativity.
 To get testers outside of my company to meet and share ideas, I created the [NOTiCE](http://www.meetup.com/notice/){.external .text} (Northern Ohio Testers in Collaborative Engagement) meetup.
@@ -41,7 +41,7 @@ The majority of our meetings have had one or more defined topics, but the most s
 I also joined the board of [NOSQAA](http://nosqaa.org/){.external .text} (Northern Ohio Software Quality Assurance Association) to help drive the programs offered in a direction I think will be beneficial for the testing community in the region.
 \-- Erik Davis
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 Firstly gauge interest amongst your target group, and simply run a kick off meeting.
 Agree as a group what they want to get out of it, format and duration.
@@ -49,9 +49,9 @@ The next stage is to simply organise and run a session, investigate the Lean Cof
 Look up games for software testers, there are lots of resources scattered around for dice games, black stories, games that demonstrate the need for solid requirements etc.
 
 Persistence is also key to this.
-If you only get a few people turn up, that\'s ok, they want to be there.
+If you only get a few people turn up, that's ok, they want to be there.
 Keep at it and keep it fresh.
-It\'s important to review the sessions as a group, and adapt to do what\'s best for the group.
+It's important to review the sessions as a group, and adapt to do what's best for the group.
 
 ## Additional resources:
 

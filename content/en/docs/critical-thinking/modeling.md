@@ -32,13 +32,13 @@ Models can be mental, logical, pictures, language based, etc\.
 Modeling can be used to restrict the combination explosion of states and data that software can suffer which impacts the ability to test.
 Often the test will use this skill abstract aspects of the system or software into a simpler concept which is testable.
 This is done by selecting some aspect of the software such as the data inputs, logic, options, actions, risk, error, or some other element of the software.
-These become \"abstract\" representations of the concept, item, or software.
+These become "abstract" representations of the concept, item, or software.
 This allows testers to better understand and reason about the model abstraction.
 
 Models can be mental (in the testers head) or real (some representation expression).
 Mental models are perhaps of the context testers best friend.
 Mental models can be developed by exploratory actions, adhoc testing, history (testing of past systems or being a help desk person) or research (reading things such as user guides or talking with users).
-Mental models can be capture into lists, spreadsheets, or mind maps, but as these \"tools\" are used the mental model moves from purely mental to something more physical (real).
+Mental models can be capture into lists, spreadsheets, or mind maps, but as these "tools" are used the mental model moves from purely mental to something more physical (real).
 
 Real or physical models can be captured by many techniques.
 A few of these technique skills are captured in the following pages/links.
@@ -47,9 +47,9 @@ Real modeling skills use techniques to capture the interesting aspect of softwar
 In some cases the uses can include: test data generation, test case generation, coverage measurement, oracle generation, risk classification, test management, test planning, and other useful testing concepts.
 
 In no case should a model used to support testing be assumed to be complete or correct.
-Remember G. Box \"All models are wrong, some models are useful\".
+Remember G. Box "All models are wrong, some models are useful".
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 This skill area is arranged in a tree hierarchy.
 Modeling is a general skill made up of sub skills and in some cases sub-‐‑sub skills with supporting techniques.
@@ -73,7 +73,7 @@ There are also general references to modeling provided in this document:
 [The Art of Software Testing](http://www.amazon.com/The-Software-Testing-Glenford-Myers/dp/1118031962){.external
 .text}, Glendford Myers - this is a general book on software testing (the grandfather). It contains modeling concepts that every tester should know
 [Black Box Software Testing](http://www.amazon.com/Black-Box-Testing-Techniques-Functional-Software/dp/0471120944/ref=sr_1_1?s=books&ie=UTF8&qid=1428682569&sr=1-1&keywords=black+box+software+testing){.external.text}, Boris Beizer - this books is a collection of state modeling concepts applied to specific black box problems areas
-[Anne-Marie Charrett\'s blog](http://mavericktester.com/archive/how-i-use-modelling-in-software-testing/){.external.text} on modeling in software testing
+[Anne-Marie Charrett's blog](http://mavericktester.com/archive/how-i-use-modelling-in-software-testing/){.external.text} on modeling in software testing
 [Practical Model Based Testing: A Tools Approach](http://books.google.com/books?hl=en&lr=&id=8hAGtY4-oOoC&oi=fnd&pg=PP2&dq=model+based+testing&ots=OQatOcJHHQ&sig=9Tnl6e_OiZkI3Abf3S8oM7xZyiA#v=onepage&q=model%20based%20testing&f=false){.external.text}
 
 

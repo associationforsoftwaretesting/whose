@@ -22,7 +22,7 @@ By recording and later referencing notes, I was able to slowly arrive at a repea
 
 The notes taken were useful for the process of isolating the behavior which was triggering a memory problem as well as later recording the information in the form of a bug report.
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 I developed my note taking skills by taking notes and then assessing their usefulness.
 This is a sort of self-referencing feedback.

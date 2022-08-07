@@ -10,7 +10,7 @@ toc: true
 
 ## Definition:
 
-Black box testing is a general label applied to design techniques used when the tester/test designer does not know or does not take into account, the software\'s code, design, or other aspects of its structure.
+Black box testing is a general label applied to design techniques used when the tester/test designer does not know or does not take into account, the software's code, design, or other aspects of its structure.
 
 
 ## A context where I used this skill:
@@ -22,21 +22,21 @@ We defined scenarios based on requirements and expected system-‐‑software us
 The rocket would count down, lift off, fly up and away.
 This was our starting black box usage scenario.
 We ran this test over and over at first.
-Then we started to test \"off normal\" scenarios to test the boundary cases.
+Then we started to test "off normal" scenarios to test the boundary cases.
 We tested a countdown that stop just before T=0.
 Tested a countdown that stop right at T=0.
 These were boundaries where we wanted to see how the software-‐‑system worked in different scenarios.
 We of course had many other cases.
-We once counted up how many \"normal\" and \"off normal\" black box scenario cases we had tests for.
-About 60% of the testers were off normal (stress cases) and another 20% were \"normal\" but at a boundary.
-This means only 20 were regular \"normal\" tests.
+We once counted up how many "normal" and "off normal" black box scenario cases we had tests for.
+About 60% of the testers were off normal (stress cases) and another 20% were "normal" but at a boundary.
+This means only 20 were regular "normal" tests.
 We were push the software, even in the black box, to situations that might not be normal, but that the software should handle without bugs.
 
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 Since the skill is made up of a variety of techniques, as tester must learn the patterns needed to implement the technique.
-To do this one must start with the \"classic\" industry recognized names of these, which include:.
+To do this one must start with the "classic" industry recognized names of these, which include:.
 
 ➔ Equivalence partitioning
 ➔ Boundary value analysis
@@ -64,7 +64,7 @@ To learn skill of black box test design and associated techniques, one must prac
 ## Additional resources:
 
 [BBST classes](http://www.associationforsoftwaretesting.org/training/courses/){.external .text}
-[The Domain Testing Workbook](http://contextdrivenpress.com/){.external .text} -‐‑ Kaner etal -‐‑ (this is a comprehensive \"how to\" with skillbuilding learning workbook)
+[The Domain Testing Workbook](http://contextdrivenpress.com/){.external .text} -‐‑ Kaner etal -‐‑ (this is a comprehensive "how to" with skillbuilding learning workbook)
 
 By: Jon Hagar
 

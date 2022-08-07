@@ -11,7 +11,7 @@ toc: true
 
 ## Definition:
 
-The process of \'creating\' a list with identified and analyzed risk items which is ordered on its risk exposure.
+The process of 'creating' a list with identified and analyzed risk items which is ordered on its risk exposure.
 See also the following related sections in this documents:.
 
 * Classify the impact of the risk (e.g. High, Medium, Low)
@@ -21,7 +21,7 @@ See also the following related sections in this documents:.
 ## A context where I used this skill:
 
 I used this during the test impact, when I created a list with identified and analyzed risk items.
-Each risk item get a priority \'assigned\' based on its risk exposure.
+Each risk item get a priority 'assigned' based on its risk exposure.
 Risk exposure is defined by the relationship of Probability and Impact What you need to do.
 
 * Consider what can go wrong that can influence the project
@@ -30,12 +30,12 @@ Risk exposure is defined by the relationship of Probability and Impact What you 
 * Calculate the risk exposure i.e. Impact \* Probability
 * Action can be taken based on risk exposure, i.e. priority
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 Just take average situations in life.
 Consider what can go wrong for that situation.
 Determine the probability and impact based on the information you have at that moment.
-With a \"value\" for probability and impact, you can \'calculate\' the risk exposure.
+With a "value" for probability and impact, you can 'calculate' the risk exposure.
 
 ## Additional resources:
 

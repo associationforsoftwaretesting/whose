@@ -42,11 +42,11 @@ The strategy:
 2. A choice to not use test automation. Reason: the product was not validated with customers, and was built in prototype mode. Both these reasons indicated that the team was developing a throwaway code and the project could end after initial validation with customers.
 3. A choice to not conduct load testing. Reason: the product was built for limited amount of users.
 4. A choice to limit testing to a specific browser version. This strategy was discussed with stakeholders, who agreed to such limitation in order to cut on time to market. Business announced this browser version to the intended customers, who were preselected for the initial feedback.
-5. The dilemma was with validating usability. To reiterate: usability was major differentiating factor for this product, it expected to set us aside from competitors. One tester on a team, however experienced, could form a biased opinion on product usability. The same bias was observed with programmers, who didn\'t notice potential \"hard to use\" features due to their own preferences. The strategy was to employ \'focus groups\' throughout the company, that were composed of company employees who wanted to have a first peek on the brand new product. The special exersizes were developed for \'focus groups\' in order to test the product usability in a friendly, non-stressful environment, simultaneously allowing participants to learn the product. Such exersizes were created in a way that allowed development team to observe how new users interact with the product, and change interface based on the observation and feedback.
-6. During the course of development, the new \'pioneer\' customer was added to the list. It turned out that the specific browser version we originally selected was incompatible with this customer\'s operating system. The decision was to add another browser version to be tested.
-7. When the project was in its\' final pre-production stage, programmers added several \'nice to have\' features, which significantly added to complexity of the code. As a result, the amount of new bugs drastically increased. Tester initiated the conversation where it was decided to shut down several features in order to preserve the robustness of the working code.
+5. The dilemma was with validating usability. To reiterate: usability was major differentiating factor for this product, it expected to set us aside from competitors. One tester on a team, however experienced, could form a biased opinion on product usability. The same bias was observed with programmers, who didn't notice potential "hard to use" features due to their own preferences. The strategy was to employ 'focus groups' throughout the company, that were composed of company employees who wanted to have a first peek on the brand new product. The special exersizes were developed for 'focus groups' in order to test the product usability in a friendly, non-stressful environment, simultaneously allowing participants to learn the product. Such exersizes were created in a way that allowed development team to observe how new users interact with the product, and change interface based on the observation and feedback.
+6. During the course of development, the new 'pioneer' customer was added to the list. It turned out that the specific browser version we originally selected was incompatible with this customer's operating system. The decision was to add another browser version to be tested.
+7. When the project was in its' final pre-production stage, programmers added several 'nice to have' features, which significantly added to complexity of the code. As a result, the amount of new bugs drastically increased. Tester initiated the conversation where it was decided to shut down several features in order to preserve the robustness of the working code.
 
-## How I\'d recommend someone learn this skill:
+## How I'd recommend someone learn this skill:
 
 Learning this skill involves integrity and critical thinking, and sharpens with experience.
 Here are some principles:.
@@ -57,7 +57,7 @@ Here are some principles:.
 
 -   You have to learn pros and cons (limitations) of each test methodology: being it test automation, exploratory testing, testing in production, unit testing/TDD, etc.
 
--   You have to learn pros and cons (limitations) of various test tools for short term and long term goals, and be brave enough to switch to another method, if the tool doesn\'t fulfill your project goals.
+-   You have to learn pros and cons (limitations) of various test tools for short term and long term goals, and be brave enough to switch to another method, if the tool doesn't fulfill your project goals.
 
 -   You need to revisit your strategy often, as the project context changes continuously and unpredictably.
 
