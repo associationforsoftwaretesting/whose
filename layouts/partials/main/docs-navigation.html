@@ -1,0 +1,22 @@
+{{ if or .Prev .Next -}}
+	<div class="docs-navigation d-flex justify-content-between">
+  {{ with .NextInSection }}
+		<a href="{{ .RelPermalink }}">
+			<div class="card my-1">
+				<div class="card-body py-2">
+					&larr; {{ .Title }}
+				</div>
+			</div>
+		</a>
+	{{ end -}}
+	{{ with .PrevInSection -}}
+		<a class="ms-auto" href="{{ .RelPermalink }}">
+			<div class="card my-1">
+				<div class="card-body py-2">
+					{{ .Title }} &rarr;
+				</div>
+			</div>
+		</a>
+	{{ end -}}
+	</div>
+{{ end -}}
