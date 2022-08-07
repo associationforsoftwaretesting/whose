@@ -42,25 +42,31 @@ Jason learned about absurd usage perturbations by discussing the bug confirmatio
 I often coach testers about how to "know When to Stop" testing.
 I start with making sure the testers have a good solid understanding of the notion of coverage.
 I ask them to identify at least three different coverage notions associated with their project and a good article I point them to is by Cem Kaner entitled ["Negligence and Testing Coverage"](http://kaner.com/pdfs/negligence_and_testing_coverage.pdf) which discusses over one hundred different ways to look at test coverage.
+
 I ask testers to learn about goals and awareness of achieving them.
 I find the writings of Steve Covey, especially his book the "Seven Habits of Highly Effective People", very helpful.
 The first habit Steve Covey teaches is begin with the end in mind, first things first.
+
 I ask testers to look at some important examples from previous projects with different exit criteria for testing.
 I point them to an [Acceptance Testing Case Study and a Combinations Testing Case Study.](http://www.google.com/url?q=http%3A%2F%2Fwww.amibugshare.com%2Fcase_studies%2FCase_Study_Acceptance_Testing.zip&sa=D&sntz=1&usg=AFQjCNHULnPvHth84rL1KiCE1fPLttY3vA)
+
 I ask testers to learn about eliciting notions of what is good enough, or what does "Done" means.
 I encourage testers to interview project stakeholders and to review examples of good enough quality from past projects.
+
 I ask testers to learn about bugs found in the field which had to be corrected from previous projects.
 
 I ask testers to come up with a prioritization strategy for test objectives on their project.
+
 I ask testers to review this with stakeholders to make sure it is acceptable to them and to get feedback.
 
 I ask testers to learn about challenging their assumptions pointing them to references such as the [Rapid Testing](http://www.satisfice.com/info_rst.shtml) course by James Bach and Michael Bolton.
+
 I ask testers to participate in project retrospectives in which they can see how other testers decided they had done enough testing.
 
 ## Additional resources:
 
-[I am a Bug](http://www.amazon.com/I-am-Bug-Robert-Sabourin/dp/0968577407/ref=sr_1_1?ie=UTF8&qid=1416496046&sr=8-1&keywords=i+am+a+bug) by Robert Sabourin describes that "\... we know we are finished when the bugs that are left are bugs we can live with at least for now\..."
-[When Do We Stop A Test](http://www.developsense.com/blog/2009/09/when-do-we-stop-test/), a blog post by Michael Bolton
+* [I am a Bug](http://www.amazon.com/I-am-Bug-Robert-Sabourin/dp/0968577407/ref=sr_1_1?ie=UTF8&qid=1416496046&sr=8-1&keywords=i+am+a+bug) by Robert Sabourin describes that "\... we know we are finished when the bugs that are left are bugs we can live with at least for now\..."
+* [When Do We Stop A Test](http://www.developsense.com/blog/2009/09/when-do-we-stop-test/), a blog post by Michael Bolton
 
 By: Robert Sabourin
 

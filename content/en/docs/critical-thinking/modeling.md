@@ -17,18 +17,18 @@ The ability to create a representation of another thing
 
 Test modeling has been used in almost situation of software and system, including:
 
-GUI modeling of a game app landing page
-Logic control flow of car engine controller
-Signature page (user and password) of a banking app for security testing
-Data input space of a numeric calculator program using combinatorial data test model (link to combinatorial skills?)
-Tester mental models
-System transaction flows
+* GUI modeling of a game app landing page
+* Logic control flow of car engine controller
+* Signature page (user and password) of a banking app for security testing
+* Data input space of a numeric calculator program using combinatorial data test model (link to combinatorial skills?)
+* Tester mental models
+* System transaction flows
 
 and many others at both high (system) and low (code) levels.
 Do not use partial models if you are doing checking of requirements for verification.
 
 The ability to use models in support of testing.
-Models can be mental, logical, pictures, language based, etc\.
+Models can be mental, logical, pictures, language based, etc...
 Modeling can be used to restrict the combination explosion of states and data that software can suffer which impacts the ability to test.
 Often the test will use this skill abstract aspects of the system or software into a simpler concept which is testable.
 This is done by selecting some aspect of the software such as the data inputs, logic, options, actions, risk, error, or some other element of the software.
@@ -52,11 +52,11 @@ Remember G. Box "All models are wrong, some models are useful".
 ## How I'd recommend someone learn this skill:
 
 This skill area is arranged in a tree hierarchy.
-Modeling is a general skill made up of sub skills and in some cases sub-‐‑sub skills with supporting techniques.
+Modeling is a general skill made up of sub skills and in some cases sub---sub skills with supporting techniques.
 The reader should follow the links below for the details of these skills, support context stories, and references/learning materials.
 There are also general references to modeling provided in this document:
 
-* Approximation models -‐‑ math based
+* Approximation models --- math based
 * State Model
 * User Behavior Modeling (models for testing)
 * System Dynamics Modeling (models for testing)
@@ -70,10 +70,10 @@ There are also general references to modeling provided in this document:
 
 ## Additional resources:
 
-[The Art of Software Testing](http://www.amazon.com/The-Software-Testing-Glenford-Myers/dp/1118031962), Glendford Myers - this is a general book on software testing (the grandfather). It contains modeling concepts that every tester should know
-[Black Box Software Testing](http://www.amazon.com/Black-Box-Testing-Techniques-Functional-Software/dp/0471120944/ref=sr_1_1?s=books&ie=UTF8&qid=1428682569&sr=1-1&keywords=black+box+software+testing), Boris Beizer - this books is a collection of state modeling concepts applied to specific black box problems areas
-[Anne-Marie Charrett's blog](http://mavericktester.com/archive/how-i-use-modelling-in-software-testing/) on modeling in software testing
-[Practical Model Based Testing: A Tools Approach](http://books.google.com/books?hl=en&lr=&id=8hAGtY4-oOoC&oi=fnd&pg=PP2&dq=model+based+testing&ots=OQatOcJHHQ&sig=9Tnl6e_OiZkI3Abf3S8oM7xZyiA#v=onepage&q=model%20based%20testing&f=false)
+* [The Art of Software Testing](http://www.amazon.com/The-Software-Testing-Glenford-Myers/dp/1118031962), Glendford Myers - this is a general book on software testing (the grandfather). It contains modeling concepts that every tester should know
+* [Black Box Software Testing](http://www.amazon.com/Black-Box-Testing-Techniques-Functional-Software/dp/0471120944/ref=sr_1_1?s=books&ie=UTF8&qid=1428682569&sr=1-1&keywords=black+box+software+testing), Boris Beizer - this books is a collection of state modeling concepts applied to specific black box problems areas
+* [Anne-Marie Charrett's blog](http://mavericktester.com/archive/how-i-use-modelling-in-software-testing/) on modeling in software testing
+* [Practical Model Based Testing: A Tools Approach](http://books.google.com/books?hl=en&lr=&id=8hAGtY4-oOoC&oi=fnd&pg=PP2&dq=model+based+testing&ots=OQatOcJHHQ&sig=9Tnl6e_OiZkI3Abf3S8oM7xZyiA#v=onepage&q=model%20based%20testing&f=false)
 
 
 

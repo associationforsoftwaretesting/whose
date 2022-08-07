@@ -33,7 +33,7 @@ I found the ideas from Cem Kaner (here: [Examples of Combination (Multi-Variable
 
 ## Additional resources:
 
-[All Pairs](http://www.developsense.com/pairwiseTesting.html)
+* [All Pairs](http://www.developsense.com/pairwiseTesting.html)
 
 By: Pete Walen
 

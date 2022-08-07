@@ -16,7 +16,7 @@ Eloquence combines several skills, but it includes knowing how to communicate to
 ## A context where I used this skill:
 
 Years ago doing programming on a project to generate insurance packets to customers.
-If we didn't hit a magical deadline, the packets would be 'late', which had the perception, at least, of incredible pain \-- people with insurance without the documentation of what the benefits were or legal proof.
+If we didn't hit a magical deadline, the packets would be 'late', which had the perception, at least, of incredible pain -- people with insurance without the documentation of what the benefits were or legal proof.
 Yes, I was writing the code, and also testing my own code.
 
 The alternative to getting the code out was to hire an army of interns to copy values from spreadsheets into MS Word, then export to PDF.
@@ -26,7 +26,7 @@ Like so many other business processes, the perceived choices were "have the auto
 
 And, of course, the requirements were late.
 Changes came in late to the system.
-The programming was done by Matt, who, while not a junior programmer, was new to this system, and working on it part-time, in addition to other responsibilities \.
+The programming was done by Matt, who, while not a junior programmer, was new to this system, and working on it part-time, in addition to other responsibilities.
 until it became obvious that we had a schedule problem.
 The code was mostly done, it was just buggy.
 How buggy, we didn't know, as my testing was an expanding spiral around the code I had changed.
@@ -40,7 +40,7 @@ If the software had a bug in a for-loop, it might send the same packet to every 
 An off-by-one error could mean packets were sent to the wrong house - so personal health information from one family would "cross streams" to another family, a legal violation.
 A merge error might mean that families got documents that looked correct, but the actual information on them, the deductible, copay, etc, was wrong.
 If the copay or deductible was too low on the packet, then the person would expect this coverage at the doctor's office, and we'd be liable to complaints and possible legal battles.
-And say the code has any of these bugs - how much effort would it take to change, resubmit, and recreate correct packets? What would the cost be to reprint and reship?.
+And say the code has any of these bugs - how much effort would it take to change, resubmit, and recreate correct packets? What would the cost be to reprint and reship?
 
 It turned out quite a bit.
 
@@ -60,8 +60,8 @@ Move from studying to experimenting, and do it consciously.
 
 ## Additional resources:
 
-["Crucial Conversations: Tools for Talking When Stakes are High"](http://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/) by Patterson et al talks about how to deal with defensive and high pressure situations
-"How To Win Friends and Influence People" by Dale Carnegie (get the original, non-update version), talks about how to send a message that will resonate with your audience
+* ["Crucial Conversations: Tools for Talking When Stakes are High"](http://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/) by Patterson et al talks about how to deal with defensive and high pressure situations
+* "How To Win Friends and Influence People" by Dale Carnegie (get the original, non-update version), talks about how to send a message that will resonate with your audience
 
 
 By: Matt Heusser

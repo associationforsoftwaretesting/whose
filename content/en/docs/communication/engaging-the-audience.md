@@ -43,14 +43,14 @@ This is a good introduction to soft skills required for good presentations: [Eng
 
 Content is the other engaging factor.
 Your slide deck can make or break the presentation.
-Remember, less is more and it is YOU who is presenting the information, not the projector!.
+Remember, less is more and it is YOU who is presenting the information, not the projector!
 
 For some examples of what NOT to do, watch [Life after death by Powerpoint](https://www.youtube.com/watch?v=lpvgfmEU2Ck) by Don McMillan.
 
 ## Additional resources:
 
-[Skills Workshop](http://skillsworkshop.net/)
-[Toastmasters International](http://www.toastmasters.org/) provides a way to do deliberate practice for presentations
+* [Skills Workshop](http://skillsworkshop.net/)
+* [Toastmasters International](http://www.toastmasters.org/) provides a way to do deliberate practice for presentations
 
 By: Chris George
 

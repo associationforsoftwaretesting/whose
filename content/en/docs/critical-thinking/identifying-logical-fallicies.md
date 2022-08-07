@@ -28,26 +28,27 @@ Several negative tests would have been required for almost every changed busines
 Even the simplest case of a business rule with two Boolean conditions (A and B) would have required at least one positive test and three negative tests to basically exercise the business logic (this is often called full condition coverage).
 (note this can be demonstrated by using Demorgan's rule in Boolean algebra).
 
-AB
-T T Positive
-T F Negative
-F T Negative
-F F Negative
+| A | B |          |
+|---|---|----------|
+| T | T | Positive |
+| T | F | Negative |
+| F | T | Negative |
+| F | F | Negative |
 
 ## How I'd recommend someone learn this skill:
 
 First study logical fallacies, then pick up any major newspaper, turn to the editorial section, and look for them.
-Another related thing to look for is inconsistency of rhetoric -‐‑-‐‑ when the person the paper likes does something, it is "leadership", while when the opposition does it, it is "manipulation."
-(Another example: "lies" vs "mistakes", "bad word choice", and "misunderstood.").
+Another related thing to look for is inconsistency of rhetoric ------ when the person the paper likes does something, it is "leadership", while when the opposition does it, it is "manipulation."
+(Another example: "lies" vs "mistakes", "bad word choice", and "misunderstood.")
 
 If you are really motivated, get a copy of [Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thought-Frank-Harrison/dp/0314668144) by Harrison and go through the books section on logical fallacies.
 It is exceptional and include exercises.
-(Robert Sabourin's example about is close to what Harrison refers to as the fallacy of the false dilemma).
+(Robert Sabourin's example about is close to what Harrison refers to as the fallacy of the false dilemma.)
 
 ## Additional resources:
 
-[Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
-[Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thought-Frank-Harrison/dp/0314668144), Frank Harrison
+* [Master List of Logical Fallacies](http://utminers.utep.edu/omwilliamson/ENGL1311/fallacies.htm)
+* [Logic and Rational Thought](http://www.amazon.com/Logic-Rational-Thought-Frank-Harrison/dp/0314668144), Frank Harrison
 
 
 By: Robert Sabourin

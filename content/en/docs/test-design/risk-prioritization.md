@@ -12,7 +12,7 @@ toc: true
 ## Definition:
 
 The process of 'creating' a list with identified and analyzed risk items which is ordered on its risk exposure.
-See also the following related sections in this documents:.
+See also the following related sections in this documents:
 
 * Classify the impact of the risk (e.g. High, Medium, Low)
 * Classify the probability of the risk (e.g. High, Medium, Low)
@@ -39,7 +39,7 @@ With a "value" for probability and impact, you can 'calculate' the risk exposure
 
 ## Additional resources:
 
-Prioritization -‐‑ Making Best Use of Your Time and Resources -‐‑ Seemore at[Mindtools](http://www.mindtools.com/pages/article/newHTE_92.htm)
+* Prioritization --- Making Best Use of Your Time and Resources --- See more at [Mindtools](http://www.mindtools.com/pages/article/newHTE_92.htm)
 
 By: Simon Peter Schrijver
 

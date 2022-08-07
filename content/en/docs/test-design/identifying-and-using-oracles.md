@@ -48,8 +48,8 @@ For me, this was an exercise in defining problems.
 The list of resources below (provided by DHH) is very good and I have referred people to several of them.
 Just as we learned basic addition and subtraction by checking "the answers" when we were done, now I expect it is checking the calculator) this is sometimes something similar.
 Each of our contexts are slightly different.
-For fields such as name or address that might display on a screen, I find it helpful to use some of Doug's self-verifying data (described above and in the resources below.
-) I have found it helpful when creating test data to give records meaningful, easily identifiable names embedded in specific field in the data.
+For fields such as name or address that might display on a screen, I find it helpful to use some of Doug's self-verifying data (described above and in the resources below.)
+I have found it helpful when creating test data to give records meaningful, easily identifiable names embedded in specific field in the data.
 Trial and error, and awareness of context, helped me refine my test data for each environment I worked in.
 When I needed legitimate addresses, I used addresses of some of my favorite restaurants.
 If they appear correctly, then I know they are correct.

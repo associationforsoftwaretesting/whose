@@ -27,12 +27,12 @@ The notes taken were useful for the process of isolating the behavior which was 
 I developed my note taking skills by taking notes and then assessing their usefulness.
 This is a sort of self-referencing feedback.
 If the note are not useful to you, think about why and change your approach slightly next time.
-There are also specific aspects of note taking ,such as sketching and exploratory testing session notes, that can be developed.
+There are also specific aspects of note taking, such as sketching and exploratory testing session notes, that can be developed.
 
 ## Additional resources:
 
-[Rapid Reporter](http://testing.gershon.info/reporter/) by Shmuel Gershon
-[An Exploratory Testers Notebook](http://www.developsense.com/presentations/etnotebook.pdf) by Michael Bolton
+* [Rapid Reporter](http://testing.gershon.info/reporter/) by Shmuel Gershon
+* [An Exploratory Testers Notebook](http://www.developsense.com/presentations/etnotebook.pdf) by Michael Bolton
 
 
 By: Justin Rohrman
