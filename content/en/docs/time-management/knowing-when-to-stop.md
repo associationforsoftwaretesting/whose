@@ -65,5 +65,3 @@ I ask testers to participate in project retrospectives in which they can see how
 
 By: Robert Sabourin
 
-Return to [Time\_Management](Time_Management.html?title=Time_Management "Time Management")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

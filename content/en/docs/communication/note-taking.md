@@ -37,5 +37,3 @@ There are also specific aspects of note taking ,such as sketching and explorator
 
 By: Justin Rohrman
 
-Return to [Communication](Communication.html?title=Communication "Communication")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

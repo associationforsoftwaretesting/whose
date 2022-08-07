@@ -55,5 +55,3 @@ What if I set z = 0? What does the computer do with something that is math undef
 
 By: Peter Walen
 
-Return to [Test Design](Test_Design.html?title=Test_Design "Test Design")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

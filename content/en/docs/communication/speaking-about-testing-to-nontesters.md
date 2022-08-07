@@ -99,6 +99,3 @@ Here are couple of things you can practice to improve your communication, especi
 
 By: Lalit Bhamare
 
-Return to
-[Communication](Communication.html?title=Communication "Communication")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

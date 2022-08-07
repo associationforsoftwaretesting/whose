@@ -47,5 +47,3 @@ I suggest that testers listen to recordings of interviews and critique them with
 
 By: Rob Sabourin
 
-Return to [Communication](Communication.html?title=Communication "Communication")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

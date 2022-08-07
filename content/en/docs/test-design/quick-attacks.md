@@ -40,5 +40,3 @@ It\'s a common place for me to start teaching testing and provides other valuabl
 
 By: Matt Heusser
 
-Return to [Test Design](Test_Design.html?title=Test_Design "Test Design")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

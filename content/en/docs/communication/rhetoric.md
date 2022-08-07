@@ -54,5 +54,3 @@ Your Brain at Work, by David Rock, contains a list of social and emotional trigg
 
 By: Matthew Heusser
 
-Return to [Communication](Communication.html?title=Communication "Communication")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

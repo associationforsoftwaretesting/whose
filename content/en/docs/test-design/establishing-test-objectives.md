@@ -47,6 +47,3 @@ This may be asked as \"What is it you hope this software will do after the chang
 
 By: Jon Hagar
 
-Return to [Test
-Design](Test_Design.html?title=Test_Design "Test Design")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

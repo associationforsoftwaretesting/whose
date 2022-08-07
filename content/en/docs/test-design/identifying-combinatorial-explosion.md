@@ -37,6 +37,3 @@ I found the ideas from Cem Kaner (here: [Examples of Combination (Multi-Variable
 
 By: Pete Walen
 
-Return to [Test
-Design](Test_Design.html?title=Test_Design "Test Design")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

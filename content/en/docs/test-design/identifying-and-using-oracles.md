@@ -68,5 +68,3 @@ If they appear correctly, then I know they are correct.
 
 By: Pete Walen
 
-Return to [Test Design](Test_Design.html?title=Test_Design "Test Design")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

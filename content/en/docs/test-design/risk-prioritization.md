@@ -43,5 +43,3 @@ Prioritization -‐‑ Making Best Use of Your Time and Resources -‐‑ Seemor
 
 By: Simon Peter Schrijver
 
-Return to [Test Design](Test_Design.html?title=Test_Design "Test Design")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

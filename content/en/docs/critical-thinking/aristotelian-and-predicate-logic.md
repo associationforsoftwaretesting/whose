@@ -57,5 +57,3 @@ The Great Courses have a [course on reasoning](http://www.thegreatcourses.com/co
 
 By: Matthew Heusser
 
-Return to [Critical\_Thinking](Critical_Thinking.html?title=Critical_Thinking "Critical Thinking")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

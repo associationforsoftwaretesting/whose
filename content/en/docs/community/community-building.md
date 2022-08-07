@@ -61,5 +61,3 @@ The Birth of a Tester Gathering [Part 1](http://testingthoughts.com/erikdavis/?p
 
 By: Erik Davis and Chris George
 
-Return to [Community](Community.html?title=Community "Community")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

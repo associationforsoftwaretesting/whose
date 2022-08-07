@@ -69,5 +69,3 @@ You may need to push back some of your team members in order to keep them from s
 
 By: Smita Mishra
 
-Return to [Communication](Communication.html?title=Communication "Communication")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

@@ -63,5 +63,3 @@ James Bach and Anne-Marie Charett offer free Skype coaching through the Associat
 
 By: Matthew Heusser
 
-Return to [Community](Community.html?title=Community "Community")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

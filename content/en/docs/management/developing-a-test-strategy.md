@@ -72,5 +72,3 @@ Here are some principles:.
 
 By: Anna Royzman
 
-Return to [Management](Management.html?title=Management "Management")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

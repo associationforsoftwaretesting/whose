@@ -54,5 +54,3 @@ For some examples of what NOT to do, watch [Life after death by Powerpoint](http
 
 By: Chris George
 
-Return to [Communication](Communication.html?title=Communication "Communication")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

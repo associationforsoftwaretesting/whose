@@ -52,6 +52,3 @@ It is exceptional and include exercises.
 
 By: Robert Sabourin
 
-Return to
-[Critical\_Thinking](Critical_Thinking.html?title=Critical_Thinking "Critical Thinking")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

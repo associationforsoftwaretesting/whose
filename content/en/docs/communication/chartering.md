@@ -58,5 +58,3 @@ Consider the section on \"The Mission of Testing\" from [BBST](http://www.testin
 
 By: Pete Walen and Justin Rohrman
 
-Return to [Communication](Communication.html?title=Communication "Communication")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

@@ -54,5 +54,3 @@ Read David Levy\'s Tools for Critical Thinking book.
 
 By: JCD
 
-Return to [Critical\_Thinking](Critical_Thinking.html?title=Critical_Thinking "Critical Thinking")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")

@@ -80,6 +80,3 @@ There are also general references to modeling provided in this document:
 
 By: Jon Hagar
 
-Return to
-[Critical\_Thinking](Critical_Thinking.html?title=Critical_Thinking "Critical Thinking")
-Return to [Main\_Page](Main_Page.html?title=Main_Page "Main Page")
