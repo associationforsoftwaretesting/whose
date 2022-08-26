@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://associationforsoftwaretesting.github.io/whose/sitemap.xml
