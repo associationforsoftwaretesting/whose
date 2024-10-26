@@ -6,7 +6,7 @@ Workshop On Self-Education in software testing
 
 Site is built by [Hugo](https://gohugo.io/) and uses [Doks](https://getdoks.org/) theme.
 
-The only requirement is [Node.js 16 or newer](https://nodejs.org/en/).
+The only requirement is [Node.js 20 or newer](https://nodejs.org/en/).
 
 In root directory of this repository, run:
 
