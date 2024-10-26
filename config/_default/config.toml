@@ -1,4 +1,4 @@
-baseurl = "https://associationforsoftwaretesting.github.io/whose/"
+baseurl = "https://whose.associationforsoftwaretesting.org"
 canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
